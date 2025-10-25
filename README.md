@@ -14,7 +14,7 @@ btw 發現和同學口術後覺得自己講得好心虛所以建立 Repo. 並用
 3. 使用斷詞取出現次數最高的30個字共線圖分析將這些言論中的關聯（檔案超連結[cooccurrence_analysis.py](https://github.com/cpeggy/student-opinion-cooccurrence-network/blob/main/cooccurrence_analysis.py) >> AI 太雞婆ㄌ我只需要看共線圖但他跑一堆算ㄌ）
 ## 結果：
 ### 如何解讀？
- 1. 元素解釋：
+1. 元素解釋：
   1. 節點 = 一個詞彙
     1. 節點大小 = 該詞的連結數量
     2. 越大 = 與越多詞彙共同出現
