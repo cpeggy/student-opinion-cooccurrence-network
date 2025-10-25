@@ -9,6 +9,6 @@ btw 發現和同學口術後覺得自己講得好心虛所以建立 Repo. 並用
 2. 過濾文本：只針對討論區留言.csv的留言內容欄位和附議名單.csv的附議原因欄位提及關於「多元」的整段文字（檔案超連結[extract_duoyuan.py](https://github.com/cpeggy/student-opinion-cooccurrence-network/blob/main/extract_duoyuan.py)）
   1. 為何用「多元」非「多元課程」？
      1.  有概括看過留言覺得多元能提到的內容比多元課成更完善（e.g. 多元發展等）
-3. 使用斷詞語共線圖分析將這些言論中的關聯（檔案超連結[]() >> AI 太雞婆ㄌ我只需要看共線圖但他跑一堆算ㄌ）
+3. 使用斷詞語共線圖分析將這些言論中的關聯（檔案超連結[cooccurrence_analysis.py](https://github.com/cpeggy/student-opinion-cooccurrence-network/blob/main/cooccurrence_analysis.py) >> AI 太雞婆ㄌ我只需要看共線圖但他跑一堆算ㄌ）
 ## 結果：
 1. 
