@@ -30,7 +30,7 @@ btw 發現和同學口術後覺得自己講得好心虛所以建立 Repo. 並用
    1. 節點間距離近 = 關係緊密，常一起出現
    2. 節點間距離遠 = 關係較弱
 ### 共線圖本圖：
-[!圖本圖](https://github.com/cpeggy/student-opinion-cooccurrence-network/blob/main/%E8%A9%9E%E5%BD%99%E5%85%B1%E7%8F%BE%E7%B6%B2%E7%B5%A1%E5%9C%96.png)
+![圖本圖](https://github.com/cpeggy/student-opinion-cooccurrence-network/blob/main/%E8%A9%9E%E5%BD%99%E5%85%B1%E7%8F%BE%E7%B6%B2%E7%B5%A1%E5%9C%96.png)
 1. 從節點出發：
   1. 「時間」最大 = 核心議題
   2. 「學生」第二大 = 主要討論對象
