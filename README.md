@@ -5,7 +5,7 @@
 
 當討論到**多元課程**時覆議者、討論區視角認為存廢與否？（大眾視角，輿情）
 
-btw 發現和同學口術後覺得自己講得好心虛所以建立 Repo. 並用 REAdME 紀錄（前面討論太熱烈＆謝謝老師放假~~~）
+btw 發現和同學口述後覺得自己講得好心虛所以建立 Repo. 並用 ReAdME 紀錄（前面討論太熱烈＆謝謝老師放假~~~）
 ## 步驟：
 1. 把~~留言爬下來~~ 誒不用這麼累啦，有可以下載討論區和附議區的留言（.csv）
 2. 過濾文本：只針對討論區留言.csv的留言內容欄位和附議名單.csv的附議原因欄位提及關於「多元」的整段文字（檔案超連結[extract_duoyuan.py](https://github.com/cpeggy/student-opinion-cooccurrence-network/blob/main/extract_duoyuan.py)）
